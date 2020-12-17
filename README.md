@@ -1,1 +1,2 @@
 # App-statistics
+This project focused on a toy model of populations of men and women using the popular dating app Tinder. It is a well-known statistic in that approximately 80-90% of the user base is male, and that each individual can only give likes to approximately 25 people per day. Given these numbers, I created a mock set of equivalent individuals (meaning, no one was given a desirability score) giving likes randomly. Due to the population disparity, the Gini Coefficient was 4x higher for men, and men got 16x fewer likes than women.
